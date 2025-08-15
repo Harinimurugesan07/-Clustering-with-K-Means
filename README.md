@@ -1,4 +1,4 @@
-# 🚀 K-Means Clustering – Customer Segmentation
+# 🚀 K-Means Clustering – Customer Segmentation (task-8)
 
 ## 📌 Objective
 Perform **unsupervised learning** using **K-Means Clustering** to group customers based on **Annual Income** and **Spending Score**, helping businesses with targeted marketing strategies.
